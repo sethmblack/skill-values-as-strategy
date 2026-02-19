@@ -3,7 +3,7 @@ name: values-as-strategy
 description: Transform organizational values from costs or PR into competitive differentiators embedded in product architecture and business model.
 license: MIT
 metadata:
-  version: 1.0.5258
+  version: 1.0.5259
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
